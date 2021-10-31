@@ -10,6 +10,7 @@ int main(){
         scanf("%d",&b);
         c=a+b;
         printf ("Addition is :%d\n",c);
+        printf ("Thanks for Using our tool\n");
     
     return 0;
 }
